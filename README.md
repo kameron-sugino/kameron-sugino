@@ -21,6 +21,8 @@ Description: An extension of Basics-of-Microbiome-Data-Analysis. We cover repeat
 <img src=https://github.com/kameron-sugino/More-Microbiome-Analysis-Methods/blob/main/20230324_Workshopcode_2_files/figure-markdown_github/unnamed-chunk-20-2.png
  alt="drawing" width="1000"/>
 
+<img src=https://github.com/kameron-sugino/More-Microbiome-Analysis-Methods/blob/main/20230324_Workshopcode_2_files/figure-markdown_github/unnamed-chunk-22-1.png  alt="drawing" width="800"/>
+
 #### **Comparing-probiotic-compositions-to-their-labels:**
 
 Description: A short analysis on the accuracy of probiotic labels versus the measured composition.
