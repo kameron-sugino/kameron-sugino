@@ -2,6 +2,14 @@
 ### I'm a postdoctoral fellow at the University of Oklahoma.
 ### My GitHub has a few repositories, mostly dealing with methods for processing raw metagenomic sequencing and analyzing the resulting data. Some examples:
 
+#### The latest addition: **fun-with-ggplots**
+
+Description: Some visualizations using ggplot. These started to get fairly complex once I layered faceting onto significance bars, onto grid.arrange, etc. So, this is mostly a repository of information I don't want to forget
+
+<pre>
+<img src=https://github.com/kameron-sugino/fun_with_ggplots/blob/main/fun_with_ggplots_files/figure-markdown_github/unnamed-chunk-16-1.png
+ alt="drawing" width="450"/> 
+
 #### **Basics-of-16S-sequence-processing-with-QIIME-on-SGE-cluster-servers**
 
 Description: This is a primer for processing 16S sequence data on a cluster server, using the LSF platform as the example. We go over formatting a batch job, submitting a batch job, checking the status of jobs, and cancelling a job. Within QIIME, we will QC and trim the reads, create OTU tables, and annotate the taxonomic IDs using greengenes2.
