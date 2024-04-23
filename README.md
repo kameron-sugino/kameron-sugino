@@ -9,6 +9,7 @@ Description: Some visualizations using ggplot. These started to get fairly compl
 <pre>
 <img src=https://github.com/kameron-sugino/fun_with_ggplots/blob/main/fun_with_ggplots_files/figure-markdown_github/unnamed-chunk-16-1.png
  alt="drawing" width="450"/> 
+</pre>
 
 #### **Basics-of-16S-sequence-processing-with-QIIME-on-SGE-cluster-servers**
 
