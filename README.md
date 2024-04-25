@@ -2,7 +2,13 @@
 ### I'm a postdoctoral fellow at the University of Oklahoma.
 ### My GitHub has a few repositories, mostly dealing with methods for processing raw metagenomic sequencing and analyzing the resulting data. Some examples:
 
-#### The latest addition: **fun-with-ggplots**
+#### The latest addition: **recast_code_for_Rachel**
+My first attempt at using Shiny. Takes a wide format table (samples on rows, and groups, variables, etc. on columns) and pivots it such that groups are on columns and variables on rows.
+
+To use the app [Click Here](https://kameron-sugino.shinyapps.io/recast_table/)
+
+____________________________________
+**fun-with-ggplots** 
 
 Description: Some visualizations using ggplot. These started to get fairly complex once I layered faceting onto significance bars, onto grid.arrange, etc. So, this is mostly a repository of information I don't want to forget
 
@@ -10,6 +16,7 @@ Description: Some visualizations using ggplot. These started to get fairly compl
 <img src=https://github.com/kameron-sugino/fun_with_ggplots/blob/main/fun_with_ggplots_files/figure-markdown_github/unnamed-chunk-16-1.png
  alt="drawing" width="450"/> 
 </pre>
+
 
 #### **Basics-of-16S-sequence-processing-with-QIIME-on-SGE-cluster-servers**
 
