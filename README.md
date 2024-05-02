@@ -2,11 +2,18 @@
 ### I'm a postdoctoral fellow at the University of Oklahoma.
 ### My GitHub has a few repositories, mostly dealing with methods for processing raw metagenomic sequencing and analyzing the resulting data. Some examples:
 
-#### The latest addition: **recast_code_for_Rachel**
-My first attempt at using Shiny. Takes a wide format table (samples on rows, and groups, variables, etc. on columns) and pivots it such that groups are on columns and variables on rows.
+#### The latest additions: Shiny apps
+My first attempts at using Shiny. 
 
+
+**plot_alluvial**
+Takes categorical variables and frequency of occurance to make an alluvial plot (see panel D in **fun-with-ggplots** below). The plot is modular and variable colors are fully customizable! Future updates will add the ability to enable the use of one input for color across the entire plot rather than seperate colors for each strata.
+To use the app [Click Here](https://kameron-sugino.shinyapps.io/plot_alluvial/)
+
+
+**recast_code_for_Rachel**
+Takes a wide format table (samples on rows, and groups, variables, etc. on columns) and pivots it such that groups are on columns and variables on rows.
 To use the app [Click Here](https://kameron-sugino.shinyapps.io/recast_table/)
-
 ____________________________________
 **fun-with-ggplots** 
 
