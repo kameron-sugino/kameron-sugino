@@ -1,6 +1,6 @@
 # Hi! I'm Kameron
 ### I'm a postdoctoral fellow at the University of Oklahoma.
-### My GitHub has a few repositories, mostly dealing with methods for processing raw metagenomic sequencing and analyzing the resulting data. Some examples:
+### My GitHub has a few repositories, mostly dealing with methods for processing raw metagenomic sequencing and analyzing the resulting data. 
 
 #### The latest additions: Shiny apps
 My first attempts at using Shiny. 
